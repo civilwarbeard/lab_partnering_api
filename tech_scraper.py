@@ -6,7 +6,7 @@ import time
 
 #This file will take the UUIDs and fetch the individual technologies and then convert into CSV
 #variables api key & url for individual Tech
-url = "https://developer.nrel.gov/api/lps/v2/technology-summaries/"
+url = "https://labpartnering.org/api/v2/technology-summaries/"
 api_key = "RCDQEfBKGukPbjI1o1TCaRxODatVTH47rTaXrVqM" 
 query_params = {"api_key": api_key}
 
